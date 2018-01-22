@@ -3,7 +3,7 @@
 ### \#   
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[2048-android](https://github.com/uberspot/2048-android) | The android port of the 2048 game (for offline playing) | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.uberspot.a2048)   
+[2048-android](https://github.com/uberspot/2048-android) | The android port of the 2048 game (for offline playing) | JavaScript | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.uberspot.a2048)   
 
 ### A  
 App Name                   | Describe                  | Major Language             | Download 
